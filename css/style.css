@@ -4,7 +4,7 @@ body {
 
 nav {
   background-color: yellow;
-  position: fixed;
+/*  position: fixed; */
   width: 100%;
   margin: -10px;
 }
@@ -12,6 +12,8 @@ nav {
 section {
   margin: 0 auto;
   width: 60%;
+  padding-top: 10px;
+
 }
 
 h1 {
@@ -34,6 +36,7 @@ h1 {
   margin: 10px;
   width: 100%;
 }
+
 
 .apple {
   background-color: red;
